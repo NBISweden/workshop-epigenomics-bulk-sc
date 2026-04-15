@@ -1,0 +1,75 @@
+---
+title: "Precourse"
+subtitle: "Preparation Instructions"
+date: ""
+toc: false
+sidebar: false
+format: html
+---
+
+## Getting Started
+
+Welcome to the course! Please follow these preparation instructions to ensure a smooth experience.
+
+::: {.callout-tip}
+
+### Critical Pre-Course Tasks
+
+Before the course begins, make sure to:
+
+- Create your course account
+- Download the course materials
+- Test your internet connection
+
+:::
+
+### Preparation Checklist
+
+| Task | Status | Deadline |
+|------|--------|----------|
+| Check your equipment compatibility | ☐ | 1 week before |
+| Install required software | ☐ | 1 week before |
+| Complete pre-course readings | ☐ | 3 days before |
+| Join the course community | ☐ | At course start |
+
+## System Requirements & Installation
+
+### Hardware Requirements
+
+Your computer should meet the following *minimum* specifications:
+
+- **RAM**: 8 GB or more
+- **Storage**: 20 GB available space
+- **Processor**: Dual-core processor or better
+- **Internet**: Reliable broadband connection
+
+::: {.callout-warning}
+If your system does not meet these requirements, please contact support **before** the course begins.
+:::
+
+### Software Installation
+
+Follow these steps to prepare your environment:
+
+1. **Familiarize Yourself with the Course Platform**: Log in and explore available resources
+2. **Install Development Tools**: Download and install any required software from the course syllabus
+3. **Verify Installation**: Run the provided verification scripts to ensure everything is working
+4. **Prepare Your Workspace**: Set up a dedicated folder for course materials
+
+## Community & Support
+
+::: {.callout-note}
+We look forward to seeing you in the course! Here are resources to help you succeed:
+:::
+
+### Getting Help
+
+| Resource | Purpose |
+|----------|---------|
+| Course Forum | Ask questions and connect with peers |
+| Office Hours | One-on-one support from instructors |
+| FAQ Section | Quick answers to common questions |
+| Slack Channel | Real-time chat with the community |
+
+**Remember**: Don't hesitate to reach out if you have any questions or concerns. We're here to help!
+

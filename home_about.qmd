@@ -1,0 +1,39 @@
+---
+title: "About"
+toc: false
+date: ""
+sidebar: false
+team:
+  organizers:
+    - name: "John Doe"
+      image: "assets/images/profile/profile.webp"
+      description: |
+        Data Scientist, Institute  
+        Associate Professor in Bioinformatics,  
+        University
+    - name: "John Doe"
+      image: "assets/images/profile/profile.webp"
+      description: "Data Scientist, Institute"
+    - name: "John Doe"
+      image: "assets/images/profile/profile.webp"
+      description: "Data Scientist, Institute"
+format:
+  html:
+    number-sections: false
+    anchor-sections: false
+---
+
+## Venue
+
+{{< leaflet ucl >}}
+
+{{< include assets/locations/_ucl.md >}}
+
+## Organizers
+
+{{< team organizers >}}
+
+## Contact
+
+For queries, write to us at **contact[at]email.com**.  
+
