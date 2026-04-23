@@ -3,7 +3,7 @@
 .RData
 .Ruserdata
 *.Rproj
-docs
+_site/
 
 /.quarto/
 

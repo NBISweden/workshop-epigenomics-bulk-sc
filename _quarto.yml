@@ -1,10 +1,10 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: _site
 
 website:
   open-graph: true
-  site-url: "https://royfrancis.github.io/specky/"
+  site-url: "https://nbisweden.github.io/workshop-epigenomics-bulk-sc/"
   image: "assets/images/seo.webp"
   description: "A quarto website template for courses and workshops."
   favicon: "assets/favicon.png"
@@ -35,7 +35,7 @@ website:
         aria-label: "About"
       - icon: github
         aria-label: "GitHub"
-        href: https://github.com/royfrancis/specky
+        href: "https://github.com/NBISweden/workshop-epigenomics-bulk-sc/"
   page-footer:
     border: false
     left: "{{< meta current_year >}} [NBIS](https://nbis.se) • [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
