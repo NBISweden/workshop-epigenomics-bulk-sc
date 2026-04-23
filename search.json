@@ -1,24 +1,59 @@
 [
   {
-    "objectID": "reports/sample/index.html",
-    "href": "reports/sample/index.html",
-    "title": "Report",
+    "objectID": "home_faq.html",
+    "href": "home_faq.html",
+    "title": "FAQs",
     "section": "",
-    "text": "Content"
+    "text": "1. Will I receive a certificate for completing the workshop?\n\n\n\n\n\n\nCertainly! Upon maintaining satisfactory attendance, demonstrating proficiency in practical exercises, and actively engaging in the collaborative group project, you will be awarded a course completion certificate.\n\n\n\n\n\n\n\n\n2. I need to leave earlier. Is that acceptable?\n\n\n\n\n\n\nProject presentations are scheduled for the morning on the final day, and participation in presenting your project is a key criterion. If you must leave early, we can attempt to schedule your group’s presentation at an earlier time to accommodate your schedule.\n\n\n\n\n\n\n\n\n3. I woke up feeling sick during the course. What should I do?\n\n\n\n\n\n\nPlease inform us and stay in your room until you feel better. We prioritize the well-being of all participants and understand that illness may prevent participation. We will work to find a suitable solution for you to minimize the impact on your learning experience. If you require assistance, don’t hesitate to reach out.\n\n\n\n\n\n\n\n\n4. Do you accommodate special dietary needs and provide suitable food options?\n\n\n\n\n\n\nPlease provide your dietary requirements in the registration form, and we’ll communicate them to the restaurant. Lunches have various options, and the restaurant can prepare special meals if needed to accommodate your specific dietary needs.\n\n\n\n\n\n\n\n\n5. What if I experience discrimination/harassment during the course?\n\n\n\n\n\n\nWe follow the NBIS Training Code of Conduct. If you experience or witness harassment, discrimination, or any other inappropriate behaviour, please inform the organizers or any staff member immediately so we can act. You can review the full policy here."
   },
   {
-    "objectID": "reports/sample/index.html#heading-1",
-    "href": "reports/sample/index.html#heading-1",
-    "title": "Report",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "",
     "section": "",
-    "text": "Content"
+    "text": "Report\nPresentation\n\nFor usage instructions and demo examples, see Contents\n\n\nUpdated: 23-04-2026 at 15:10:46 ."
   },
   {
-    "objectID": "reports/sample/index.html#heading-2",
-    "href": "reports/sample/index.html#heading-2",
-    "title": "Report",
-    "section": "2 Heading 2",
-    "text": "2 Heading 2\nMore Contents"
+    "objectID": "index.html#specky-course-template",
+    "href": "index.html#specky-course-template",
+    "title": "",
+    "section": "",
+    "text": "Report\nPresentation\n\nFor usage instructions and demo examples, see Contents\n\n\nUpdated: 23-04-2026 at 15:10:46 ."
+  },
+  {
+    "objectID": "home_contents.html",
+    "href": "home_contents.html",
+    "title": "Contents",
+    "section": "",
+    "text": "HTML report using the Quarto format html.\nListing page for all reports.\n\nUsing Quarto and custom theme \nMinimal demo \nQuarto basics \nQuarto with R \nOJS and mermaid"
+  },
+  {
+    "objectID": "home_contents.html#reports",
+    "href": "home_contents.html#reports",
+    "title": "Contents",
+    "section": "",
+    "text": "HTML report using the Quarto format html.\nListing page for all reports.\n\nUsing Quarto and custom theme \nMinimal demo \nQuarto basics \nQuarto with R \nOJS and mermaid"
+  },
+  {
+    "objectID": "home_contents.html#slides",
+    "href": "home_contents.html#slides",
+    "title": "Contents",
+    "section": "Slides",
+    "text": "Slides\nPresentation using the Quarto revealjs format.\nListing page for all slides.\n\nMinimal demo \nQuarto with R"
+  },
+  {
+    "objectID": "home_syllabus.html",
+    "href": "home_syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "SyllabusLearning outcomesEntry requirements\n\n\nThe syllabus for this workshop are as follows.\n\nWorking on the unix/linux command line\n\nCommand line navigation and related commands: cd, mkdir, rm, rmdir\nCommonly used linux tools: cp, mv, tar, less, more, head, tail, nano, grep, top, man\nWildcards\nOwnership and permissions\nSymbolic links\nPiping commands\n\nWorking on remote computing cluster\n\nLogging on to UPPMAX\nBooking resources\nJob templates, submission and queues\nModules\n\n\n\n\nAfter this workshop you should be able to:\n\nDescribe the basic principles of next generation sequencing.\nUse the Linux command line interface to manage simple file processing operations, and organise directory structures.\nConnect to and work on a remote compute cluster.\nApply programs in Linux for analysis of NGS data.\n\n\n\n\nThis is a national course open to PhD students, postdocs, group leaders and core facility staff.\nA background in genetics, cell biology, biomedicine, biochemistry, bioinformatics or comparable is desirable."
+  },
+  {
+    "objectID": "home_schedule.html",
+    "href": "home_schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Topic\nInstructor\nLinks\n\n\n\n\n30-Mar-2026 (Mon)\n\n\n\n\nTFs\nDania\nSlides\n\n\nUsing custom theme\nJohn Doe\nReport\n\n\nQuarto basics\nJohn Doe\nReport\n\n\nQuarto and R\nJohn Doe\nSlides, Report\n\n\nOJS and mermaid\nJohn Doe\nReport"
   },
   {
     "objectID": "home_coc.html",
@@ -40,20 +75,6 @@
     "title": "Code of Conduct",
     "section": "Detailed",
     "text": "Detailed\n\nPart 1. Introduction\nTraining is one of the core values of NBIS, and benefits from the contributions of the entire scientific community. We value the involvement of everyone in the community. We are committed to creating a friendly and respectful place for learning, teaching and contributing. All participants in our events and communications are expected to show respect and courtesy to others.\nTo make clear what is expected, everyone participating in NBIS/ELIXIR courses is required to conform to the Code of Conduct. This Code of Conduct applies to all spaces managed by NBIS including, but not limited to courses, email lists, and online forums such as Studium, GitHub, Slack, Twitter and LinkedIn. Course organizers and teachers are expected to assist with the enforcement of the Code of Conduct.\nThe NBIS Training Coordinator is responsible for enforcing the Code of Conduct. It can be contacted by emailing education[at]nbis.se. All reports will be reviewed and will be kept confidential.\n\n\nPart 2. The NBIS Code of Conduct\nNBIS is dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. As such, we do not tolerate behaviour that is disrespectful to our teachers or learners or that excludes, intimidates, or causes discomfort to others. We do not tolerate discrimination or harassment based on characteristics that include, but are not limited to, gender identity and expression, sexual orientation, disability, physical appearance, body size, citizenship, nationality, ethnic or social origin, pregnancy, familial status, veteran status, genetic information, religion or belief (or lack thereof), membership of a national minority, property, age, education, socio-economic status, technical choices, and experience level.\nEveryone who participates in NBIS training activities is required to conform to this Code of Conduct. It applies to all spaces managed by NBIS including, but not limited to, courses, email lists, and online forums such as Studium, GitHub, Slack, Twitter and LinkedIN. Course leaders and teachers are expected to assist with the enforcement of the Code of Conduct. By participating, attendants indicate their acceptance of the procedures by which NBIS resolves any Code of Conduct incidents, which may include storage and processing of their personal information.\n\nPart 2.1 Expected behaviour\nAll participants in our events and communications are expected to show respect and courtesy to others. All interactions should be professional regardless of platform: either online or in-person. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all NBIS training events and platforms:\n\nUse welcoming and inclusive language\nBe respectful of different viewpoints and experiences\nGracefully accept constructive criticism\nFocus on what is best for the community\nShow courtesy and respect towards other community members\n\n\n\n\n\n\n\nNote\n\n\n\nSee the four social rules for further recommendations.\n\n\n\n\nPart 2.2 Unacceptable behaviour\nExamples of unacceptable behaviour by participants at any NBIS event/platform include:\n\nWritten or verbal comments which have the effect of excluding people on the basis of membership of any specific group\nCausing someone to fear for their safety, such as through stalking, following, or intimidation\nViolent threats or language directed against another person\nThe display of sexual or violent images\nUnwelcome sexual attention\nNon-consensual or unwelcome physical contact\nSustained disruption of talks, events or communications\nInsults or put downs\nSexist, racist, homophobic, transphobic, ableist, or exclusionary jokes\nExcessive swearing\nIncitement to violence, suicide, or self-harm\nContinuing to initiate interaction (including photography or recording) with someone after being asked to stop\nPublication of private communication without consent\n\n\n\nPart 2.3 Consequences of Unacceptable behaviour\nParticipants who are asked to stop any inappropriate behaviour are expected to comply immediately. This applies to any NBIS events and platforms, either online or in-person. If a participant engages in behaviour that violates this code of conduct, the organisers may warn the offender, ask them to leave the event or platform (without refund), or engage with the NBIS Training Coordinator or the appropriate authorities to investigate the Code of Conduct violation and impose appropriate sanctions."
-  },
-  {
-    "objectID": "slides/index.html",
-    "href": "slides/index.html",
-    "title": "Slides",
-    "section": "",
-    "text": "Presentation\n\n\n\nJohn Doe\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "home_faq.html",
-    "href": "home_faq.html",
-    "title": "FAQs",
-    "section": "",
-    "text": "1. Will I receive a certificate for completing the workshop?\n\n\n\n\n\n\nCertainly! Upon maintaining satisfactory attendance, demonstrating proficiency in practical exercises, and actively engaging in the collaborative group project, you will be awarded a course completion certificate.\n\n\n\n\n\n\n\n\n2. I need to leave earlier. Is that acceptable?\n\n\n\n\n\n\nProject presentations are scheduled for the morning on the final day, and participation in presenting your project is a key criterion. If you must leave early, we can attempt to schedule your group’s presentation at an earlier time to accommodate your schedule.\n\n\n\n\n\n\n\n\n3. I woke up feeling sick during the course. What should I do?\n\n\n\n\n\n\nPlease inform us and stay in your room until you feel better. We prioritize the well-being of all participants and understand that illness may prevent participation. We will work to find a suitable solution for you to minimize the impact on your learning experience. If you require assistance, don’t hesitate to reach out.\n\n\n\n\n\n\n\n\n4. Do you accommodate special dietary needs and provide suitable food options?\n\n\n\n\n\n\nPlease provide your dietary requirements in the registration form, and we’ll communicate them to the restaurant. Lunches have various options, and the restaurant can prepare special meals if needed to accommodate your specific dietary needs.\n\n\n\n\n\n\n\n\n5. What if I experience discrimination/harassment during the course?\n\n\n\n\n\n\nWe follow the NBIS Training Code of Conduct. If you experience or witness harassment, discrimination, or any other inappropriate behaviour, please inform the organizers or any staff member immediately so we can act. You can review the full policy here."
   },
   {
     "objectID": "home_precourse.html",
@@ -110,82 +131,5 @@
     "title": "About",
     "section": "Contact",
     "text": "Contact\nFor queries, write to us at contact[at]email.com."
-  },
-  {
-    "objectID": "home_syllabus.html",
-    "href": "home_syllabus.html",
-    "title": "Syllabus",
-    "section": "",
-    "text": "SyllabusLearning outcomesEntry requirements\n\n\nThe syllabus for this workshop are as follows.\n\nWorking on the unix/linux command line\n\nCommand line navigation and related commands: cd, mkdir, rm, rmdir\nCommonly used linux tools: cp, mv, tar, less, more, head, tail, nano, grep, top, man\nWildcards\nOwnership and permissions\nSymbolic links\nPiping commands\n\nWorking on remote computing cluster\n\nLogging on to UPPMAX\nBooking resources\nJob templates, submission and queues\nModules\n\n\n\n\nAfter this workshop you should be able to:\n\nDescribe the basic principles of next generation sequencing.\nUse the Linux command line interface to manage simple file processing operations, and organise directory structures.\nConnect to and work on a remote compute cluster.\nApply programs in Linux for analysis of NGS data.\n\n\n\n\nThis is a national course open to PhD students, postdocs, group leaders and core facility staff.\nA background in genetics, cell biology, biomedicine, biochemistry, bioinformatics or comparable is desirable."
-  },
-  {
-    "objectID": "home_schedule.html",
-    "href": "home_schedule.html",
-    "title": "Schedule",
-    "section": "",
-    "text": "Topic\nInstructor\nLinks\n\n\n\n\n30-Mar-2026 (Mon)\n\n\n\n\nMinimal demo\nJohn Doe\nSlides, Report\n\n\nUsing custom theme\nJohn Doe\nReport\n\n\nQuarto basics\nJohn Doe\nReport\n\n\nQuarto and R\nJohn Doe\nSlides, Report\n\n\nOJS and mermaid\nJohn Doe\nReport"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "",
-    "section": "",
-    "text": "Report\nPresentation\n\nFor usage instructions and demo examples, see Contents\n\n\nUpdated: 23-04-2026 at 15:09:42 ."
-  },
-  {
-    "objectID": "index.html#specky-course-template",
-    "href": "index.html#specky-course-template",
-    "title": "",
-    "section": "",
-    "text": "Report\nPresentation\n\nFor usage instructions and demo examples, see Contents\n\n\nUpdated: 23-04-2026 at 15:09:42 ."
-  },
-  {
-    "objectID": "slides/sample/index.html#heading-1",
-    "href": "slides/sample/index.html#heading-1",
-    "title": "Presentation",
-    "section": "Heading 1",
-    "text": "Heading 1\nContent"
-  },
-  {
-    "objectID": "slides/sample/index.html#heading-2",
-    "href": "slides/sample/index.html#heading-2",
-    "title": "Presentation",
-    "section": "Heading 2",
-    "text": "Heading 2\nMore content"
-  },
-  {
-    "objectID": "slides/sample/index.html#section",
-    "href": "slides/sample/index.html#section",
-    "title": "Presentation",
-    "section": "",
-    "text": "Thank you!\nQuestions?\n2026 • Specky"
-  },
-  {
-    "objectID": "home_contents.html",
-    "href": "home_contents.html",
-    "title": "Contents",
-    "section": "",
-    "text": "HTML report using the Quarto format html.\nListing page for all reports.\n\nUsing Quarto and custom theme \nMinimal demo \nQuarto basics \nQuarto with R \nOJS and mermaid"
-  },
-  {
-    "objectID": "home_contents.html#reports",
-    "href": "home_contents.html#reports",
-    "title": "Contents",
-    "section": "",
-    "text": "HTML report using the Quarto format html.\nListing page for all reports.\n\nUsing Quarto and custom theme \nMinimal demo \nQuarto basics \nQuarto with R \nOJS and mermaid"
-  },
-  {
-    "objectID": "home_contents.html#slides",
-    "href": "home_contents.html#slides",
-    "title": "Contents",
-    "section": "Slides",
-    "text": "Slides\nPresentation using the Quarto revealjs format.\nListing page for all slides.\n\nMinimal demo \nQuarto with R"
-  },
-  {
-    "objectID": "reports/index.html",
-    "href": "reports/index.html",
-    "title": "Reports",
-    "section": "",
-    "text": "Report\n\n\n\nJohn Doe\n\n\n\n\n\n\nNo matching items"
   }
 ]
