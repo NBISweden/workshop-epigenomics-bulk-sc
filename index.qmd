@@ -20,13 +20,11 @@ execute:
 ::: {.home-grid-parent}
 ::: {.home-grid-child-left}
 
-## [Specky: Course Template]{.large}
-### A quarto course template
+# Epigenomics Data Analysis: from Bulk to Single Cell
 
-- [Report](reports/sample/index.html)
-- [Presentation](slides/sample/index.html)
-
-For usage instructions and demo examples, see [Contents](home_contents.html)
+This workshop is an introduction to best practice bioinformatics methods for 
+processing, analyses and integration of epigenomics data. The online teaching 
+includes lectures, programming tutorials and interactive group sessions.
 
 ---
 
