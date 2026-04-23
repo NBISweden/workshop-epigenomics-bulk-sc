@@ -1,0 +1,14 @@
+[
+  {
+    "listing": "/slides/index.html",
+    "items": [
+      "/slides/sample/index.html"
+    ]
+  },
+  {
+    "listing": "/reports/index.html",
+    "items": [
+      "/reports/sample/index.html"
+    ]
+  }
+]
